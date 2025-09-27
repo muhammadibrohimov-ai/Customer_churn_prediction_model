@@ -1,0 +1,44 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Python-specific files
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.env
+venv/
+env/
+
+# Data files (often large or sensitive)
+data/
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.feather
+*.hdf5
+*.pkl
+*.zip
+*.tar.gz
+
+# Model files
+*.h5
+*.keras
+*.onnx
+*.pth
+*.pt
+*.pkl
+
+# Jupyter Notebook output
+*.ipynb_checkpoints/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Logs and temporary files
+logs/
+*.log
+tmp/
