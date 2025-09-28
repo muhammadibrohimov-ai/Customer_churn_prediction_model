@@ -19,8 +19,7 @@ Bu tahlil va model yaratish jarayonida quyidagilar o‘rganiladi:
 ```
 Customer_churn_prediction_model/
 ├── Customer_Churn.ipynb ← Jupyter Notebook: butun ish jarayoni
-├── data/ ← (agar bo‘lsa) ma’lumotlar fayllari
-├── models/ ← (agar saqlansa) trening qilingan modellar
+├── plots/ ← (grafiklar)
 └── README.md ← Loyihaning tavfsifi (shu fayl)
 ```
 
